@@ -1,2 +1,8 @@
 # C-
-C++学习
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"holle word!"
+  return 0;
+}
